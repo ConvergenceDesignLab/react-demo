@@ -1,6 +1,6 @@
 # React Demo
 
-This project was created with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with [Create React App](https://github.com/facebook/create-react-app). The purpose of the demo was to introduce React, components, props, state and routing. See [agenda notes](https://docs.google.com/document/d/1yclrulCeopOqW-WhYGVPGHQdTIkh9ESXHJPkXb2X3cQ/edit).
 
 ## Installing
 
