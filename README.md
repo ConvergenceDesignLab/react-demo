@@ -17,5 +17,5 @@ npm run install
 See `scripts` section of `package.json`, but the command for starting up a development server with the code running at [http://localhost:3000](http://localhost:3000) is:
 
 ```
-npm run start
+npm run dev
 ```
